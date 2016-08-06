@@ -1,0 +1,32 @@
+Como encarar o desenvolvimento front-end
+
+2012 Eventos do simples
+
+mobile
+performance
+components
+
+projetos webs mais complexos
+
+Existem diferentes tipos de projetos.
+
+documentos vs aplicacoes
+
+documento: coletane a de paginas
+
+aplicacao estados em ma unica pagina
+
+CSS funciona bem em documento.
+
+jquery
+
+zepto
+back
+
+composable, single-purpose
+
+preocupe-se coma qualidade e com a saude do codigo.
+
+lehman - co.
+
+@jcemer

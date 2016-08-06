@@ -1,0 +1,56 @@
+A Semantica na Web e os dados estruturados no Google
+
+#10kdays
+
+Tim Barner-Lee
+
+Web of documents/data/things
+
+Web Semantica
+
+Semantica na estrutura e semantica no conteudo
+
+Semantic WebSpark
+
+Dados Abetos connectados
+
+Knowledge Graph
+
+Rich Snippets (Reviews)
+
+Vocabularios Antologias
+
+RDAFa Lite 1.1 - Second Edtion
+
+Sujeito predicado e obejto -> Tripla
+
+vocab
+property
+typeof
+content
+
+<p vocab="http://schema.org" typeof="Event">
+  O <spn property="name">FrontInBH</span> ocorre no dia <span property="startDate" content="2016-08-06T">06/08/2016</span>
+</p>
+
+JSON-LD 1.0 Linked DAta
+
+JSON fro Linking Data json-ld.org
+
+Schema.org
+
+LOV Linking over vocabularu
+
+Google Search
+
+Ontroductin to Screuture Data Google
+
+
+Interoperabilidade semantica (open challange
+
+j)
+
+@newtonclegari
+
+
+ceweb.br
